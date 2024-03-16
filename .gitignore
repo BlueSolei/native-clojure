@@ -1,2 +1,5 @@
 .cpcache/
+.clj-kondo/
+.lsp/
+.compiler/
 target/
